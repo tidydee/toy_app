@@ -1,28 +1,9 @@
-== README
+== README for Toy App
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A toy demo application to show off some of the power of Rails.
 
-Things you may want to cover:
+The purpose is to get a high-level overview of Ruby on Rails programming (and web development in general) by rapidly generating an application using scaffold generators, which create a large amount of functionality automatically. The resulting toy app will allow us to interact with it through its URLs, giving us insight into the structure of a Rails application, including a first example of the REST architecture favored by Rails.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+The toy app will consist of users and their associated microposts (thus constituting a minimalist Twitter-style app).
 
 
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
